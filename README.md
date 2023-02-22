@@ -1,2 +1,2 @@
 # Foodie-s-Zone
-Food ordering web application .
+Food ordering web application . {Project in progress}
